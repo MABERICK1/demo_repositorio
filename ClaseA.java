@@ -1,12 +1,12 @@
 public class ClaseA {
 private int x;
   private int y;
-  private int z;
+  private String codigo;
 
 public claseA(){
   x=0;
   y=;
-  z=0;
+  codigo="";
   
   }
   }
